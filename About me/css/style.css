@@ -1,0 +1,41 @@
+/*Nav Bar*/
+.navbar-brand{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.navbar{
+    background-color:#55498E !important;
+    color: white !important;
+}
+
+.navbar-collapse{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+/*End NavBar*/
+
+
+.btn{
+background-color: #55498E;
+color: white;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column !important;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: row;
+}
+
+.footer{
+    margin:1.5%;
+}

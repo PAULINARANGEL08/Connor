@@ -1,0 +1,61 @@
+/*Nav Bar*/
+.navbar-brand{
+    color: white !important;
+    font-weight: bold !important;
+}
+
+.navbar{
+    background-color:#55498E !important;
+    color: white !important;
+}
+
+.navbar-collapse{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+/*End NavBar*/
+
+/*Jumbotron*/
+
+.Title{
+    color: white !important;
+}
+
+.texthome{
+    color: white;
+}
+
+.texto{
+    padding-top: 30%;
+}
+
+
+
+.jumbotron{
+    background-image: url("../images/HEROIMAGE.jpg");
+    background-position:unset;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: calc(100vh - 25px);
+    
+}
+
+.form{
+    margin: 10%;
+}
+
+.Comments{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.btn{
+background-color: #55498E;
+color: white;
+stroke-opacity: 1%;
+
+}
+
