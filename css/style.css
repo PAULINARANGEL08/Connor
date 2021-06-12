@@ -22,8 +22,15 @@
     color: white !important;
 }
 
+h1{
+color:yellow;
+font-weight: bold;
+font-style: oblique;
+}
+
 .texthome{
     color: white;
+    font-size: 3.5vh;
 }
 
 .texto{
@@ -34,7 +41,7 @@
 
 .jumbotron{
     background-image: url("../images/HEROIMAGE.jpg");
-    background-position:unset;
+    background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(100vh - 25px);
